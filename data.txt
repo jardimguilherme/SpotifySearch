@@ -1,0 +1,5 @@
+Client ID 230855cf464c4a5daaeb1804ea6bcf54
+Client Secret 313bc2d6b8184f68a62a6a8943d57f76
+http://localhost:3000/callback
+
+BQCHUNY2bqAeVK2pxRj1X2ZCp11wlFGYadd2ue9FV_RgJOFLru7V9BPqDxbsqbuXfSwHOLcip9VITcQa0Ig_3XwPqUIsqwWRHRQ2_aQI1eLMPA1KU
