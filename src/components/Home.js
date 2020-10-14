@@ -16,7 +16,7 @@ const Home = (props) => {
     <div className="login">
       <Header />
       <Button variant="info" type="submit" onClick={handleLogin}>
-        Login to spotify
+        Login to Spotify
       </Button>
     </div>
   );

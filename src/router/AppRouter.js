@@ -4,6 +4,7 @@ import Home from '../components/Home';
 import RedirectPage from '../components/RedirectPage';
 import Dashboard from '../components/Dashboard';
 import NotFoundPage from '../components/NotFoundPage';
+
 class AppRouter extends React.Component {
   render() {
     return (
