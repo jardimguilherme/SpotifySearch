@@ -6,7 +6,7 @@ const NotFoundPage = () => {
   return (
     <React.Fragment>
       <Header />
-      Page not found. Go To <Link to="/dashboard">Home Page</Link>
+      Page not found. Head Back To <Link to="/dashboard">Home Page</Link>
     </React.Fragment>
   );
 };

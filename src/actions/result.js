@@ -21,7 +21,7 @@ export const initiateGetResult = (searchTerm) => {
       )}&type=album,playlist,artist`;
       const result = await get(API_URL);
       console.log(result);
-      const { albums, artists, playlists } = result;
+      const { albums } = result;
       dispatch(setAlbums(albums));
     } catch (error) {
       console.log('error', error);

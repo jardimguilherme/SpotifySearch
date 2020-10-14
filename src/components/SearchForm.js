@@ -14,7 +14,7 @@ const SearchForm = (props) => {
       setErrorMsg('');
       props.handleSearch(searchTerm);
     } else {
-      setErrorMsg('Please enter a search term.');
+      setErrorMsg('Please enter a search term');
     }
   };
   return (
